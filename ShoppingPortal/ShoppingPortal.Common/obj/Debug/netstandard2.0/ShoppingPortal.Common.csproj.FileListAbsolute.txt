@@ -1,0 +1,18 @@
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Common\bin\Debug\netstandard2.0\ShoppingPortal.Common.deps.json
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Common\bin\Debug\netstandard2.0\ShoppingPortal.Common.dll
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Common\bin\Debug\netstandard2.0\ShoppingPortal.Common.pdb
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Common\obj\Debug\netstandard2.0\ShoppingPortal.Common.csprojAssemblyReference.cache
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Common\obj\Debug\netstandard2.0\ShoppingPortal.Common.csproj.CoreCompileInputs.cache
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Common\obj\Debug\netstandard2.0\ShoppingPortal.Common.AssemblyInfoInputs.cache
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Common\obj\Debug\netstandard2.0\ShoppingPortal.Common.AssemblyInfo.cs
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Common\obj\Debug\netstandard2.0\ShoppingPortal.Common.dll
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Common\obj\Debug\netstandard2.0\ShoppingPortal.Common.pdb
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Common\bin\Debug\netstandard2.0\ShoppingPortal.Common.deps.json
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Common\bin\Debug\netstandard2.0\ShoppingPortal.Common.dll
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Common\bin\Debug\netstandard2.0\ShoppingPortal.Common.pdb
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Common\obj\Debug\netstandard2.0\ShoppingPortal.Common.csprojAssemblyReference.cache
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Common\obj\Debug\netstandard2.0\ShoppingPortal.Common.csproj.CoreCompileInputs.cache
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Common\obj\Debug\netstandard2.0\ShoppingPortal.Common.AssemblyInfoInputs.cache
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Common\obj\Debug\netstandard2.0\ShoppingPortal.Common.AssemblyInfo.cs
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Common\obj\Debug\netstandard2.0\ShoppingPortal.Common.dll
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Common\obj\Debug\netstandard2.0\ShoppingPortal.Common.pdb

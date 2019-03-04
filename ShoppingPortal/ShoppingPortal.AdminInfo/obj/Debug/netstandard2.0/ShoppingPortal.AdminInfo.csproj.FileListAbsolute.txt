@@ -1,0 +1,24 @@
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.AdminInfo\bin\Debug\netstandard2.0\ShoppingPortal.AdminInfo.deps.json
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.AdminInfo\bin\Debug\netstandard2.0\ShoppingPortal.AdminInfo.dll
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.AdminInfo\bin\Debug\netstandard2.0\ShoppingPortal.AdminInfo.pdb
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.AdminInfo\bin\Debug\netstandard2.0\ShoppingPortal.Connection.dll
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.AdminInfo\bin\Debug\netstandard2.0\ShoppingPortal.Connection.pdb
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.AdminInfo\obj\Debug\netstandard2.0\ShoppingPortal.AdminInfo.csprojAssemblyReference.cache
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.AdminInfo\obj\Debug\netstandard2.0\ShoppingPortal.AdminInfo.csproj.CoreCompileInputs.cache
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.AdminInfo\obj\Debug\netstandard2.0\ShoppingPortal.AdminInfo.AssemblyInfoInputs.cache
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.AdminInfo\obj\Debug\netstandard2.0\ShoppingPortal.AdminInfo.AssemblyInfo.cs
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.AdminInfo\obj\Debug\netstandard2.0\ShoppingPortal.AdminInfo.csproj.CopyComplete
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.AdminInfo\obj\Debug\netstandard2.0\ShoppingPortal.AdminInfo.dll
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.AdminInfo\obj\Debug\netstandard2.0\ShoppingPortal.AdminInfo.pdb
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.AdminInfo\bin\Debug\netstandard2.0\ShoppingPortal.AdminInfo.deps.json
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.AdminInfo\bin\Debug\netstandard2.0\ShoppingPortal.AdminInfo.dll
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.AdminInfo\bin\Debug\netstandard2.0\ShoppingPortal.AdminInfo.pdb
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.AdminInfo\bin\Debug\netstandard2.0\ShoppingPortal.Connection.dll
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.AdminInfo\bin\Debug\netstandard2.0\ShoppingPortal.Connection.pdb
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.AdminInfo\obj\Debug\netstandard2.0\ShoppingPortal.AdminInfo.csprojAssemblyReference.cache
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.AdminInfo\obj\Debug\netstandard2.0\ShoppingPortal.AdminInfo.csproj.CoreCompileInputs.cache
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.AdminInfo\obj\Debug\netstandard2.0\ShoppingPortal.AdminInfo.AssemblyInfoInputs.cache
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.AdminInfo\obj\Debug\netstandard2.0\ShoppingPortal.AdminInfo.AssemblyInfo.cs
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.AdminInfo\obj\Debug\netstandard2.0\ShoppingPortal.AdminInfo.csproj.CopyComplete
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.AdminInfo\obj\Debug\netstandard2.0\ShoppingPortal.AdminInfo.dll
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.AdminInfo\obj\Debug\netstandard2.0\ShoppingPortal.AdminInfo.pdb

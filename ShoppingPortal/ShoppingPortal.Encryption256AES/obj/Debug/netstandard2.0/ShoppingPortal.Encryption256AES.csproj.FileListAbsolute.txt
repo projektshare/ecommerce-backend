@@ -1,0 +1,17 @@
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Encryption256AES\bin\Debug\netstandard2.0\ShoppingPortal.Encryption256AES.deps.json
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Encryption256AES\bin\Debug\netstandard2.0\ShoppingPortal.Encryption256AES.dll
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Encryption256AES\bin\Debug\netstandard2.0\ShoppingPortal.Encryption256AES.pdb
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Encryption256AES\obj\Debug\netstandard2.0\ShoppingPortal.Encryption256AES.csprojAssemblyReference.cache
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Encryption256AES\obj\Debug\netstandard2.0\ShoppingPortal.Encryption256AES.csproj.CoreCompileInputs.cache
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Encryption256AES\obj\Debug\netstandard2.0\ShoppingPortal.Encryption256AES.AssemblyInfoInputs.cache
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Encryption256AES\obj\Debug\netstandard2.0\ShoppingPortal.Encryption256AES.AssemblyInfo.cs
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Encryption256AES\obj\Debug\netstandard2.0\ShoppingPortal.Encryption256AES.dll
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Encryption256AES\obj\Debug\netstandard2.0\ShoppingPortal.Encryption256AES.pdb
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Encryption256AES\bin\Debug\netstandard2.0\ShoppingPortal.Encryption256AES.deps.json
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Encryption256AES\bin\Debug\netstandard2.0\ShoppingPortal.Encryption256AES.dll
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Encryption256AES\bin\Debug\netstandard2.0\ShoppingPortal.Encryption256AES.pdb
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Encryption256AES\obj\Debug\netstandard2.0\ShoppingPortal.Encryption256AES.csproj.CoreCompileInputs.cache
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Encryption256AES\obj\Debug\netstandard2.0\ShoppingPortal.Encryption256AES.AssemblyInfoInputs.cache
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Encryption256AES\obj\Debug\netstandard2.0\ShoppingPortal.Encryption256AES.AssemblyInfo.cs
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Encryption256AES\obj\Debug\netstandard2.0\ShoppingPortal.Encryption256AES.dll
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Encryption256AES\obj\Debug\netstandard2.0\ShoppingPortal.Encryption256AES.pdb

@@ -1,0 +1,18 @@
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Mailer\bin\Debug\netstandard2.0\ShoppingPortal.Mailer.deps.json
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Mailer\bin\Debug\netstandard2.0\ShoppingPortal.Mailer.dll
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Mailer\bin\Debug\netstandard2.0\ShoppingPortal.Mailer.pdb
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Mailer\obj\Debug\netstandard2.0\ShoppingPortal.Mailer.csprojAssemblyReference.cache
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Mailer\obj\Debug\netstandard2.0\ShoppingPortal.Mailer.csproj.CoreCompileInputs.cache
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Mailer\obj\Debug\netstandard2.0\ShoppingPortal.Mailer.AssemblyInfoInputs.cache
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Mailer\obj\Debug\netstandard2.0\ShoppingPortal.Mailer.AssemblyInfo.cs
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Mailer\obj\Debug\netstandard2.0\ShoppingPortal.Mailer.dll
+E:\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Mailer\obj\Debug\netstandard2.0\ShoppingPortal.Mailer.pdb
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Mailer\bin\Debug\netstandard2.0\ShoppingPortal.Mailer.deps.json
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Mailer\bin\Debug\netstandard2.0\ShoppingPortal.Mailer.dll
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Mailer\bin\Debug\netstandard2.0\ShoppingPortal.Mailer.pdb
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Mailer\obj\Debug\netstandard2.0\ShoppingPortal.Mailer.csprojAssemblyReference.cache
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Mailer\obj\Debug\netstandard2.0\ShoppingPortal.Mailer.csproj.CoreCompileInputs.cache
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Mailer\obj\Debug\netstandard2.0\ShoppingPortal.Mailer.AssemblyInfoInputs.cache
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Mailer\obj\Debug\netstandard2.0\ShoppingPortal.Mailer.AssemblyInfo.cs
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Mailer\obj\Debug\netstandard2.0\ShoppingPortal.Mailer.dll
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.Mailer\obj\Debug\netstandard2.0\ShoppingPortal.Mailer.pdb

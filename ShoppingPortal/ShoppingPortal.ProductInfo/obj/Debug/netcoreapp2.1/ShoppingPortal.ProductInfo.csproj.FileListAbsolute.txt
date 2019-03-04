@@ -1,0 +1,12 @@
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.ProductInfo\bin\Debug\netcoreapp2.1\ShoppingPortal.Connection.dll
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.ProductInfo\obj\Debug\netcoreapp2.1\ShoppingPortal.ProductInfo.csprojAssemblyReference.cache
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.ProductInfo\obj\Debug\netcoreapp2.1\ShoppingPortal.ProductInfo.csproj.CoreCompileInputs.cache
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.ProductInfo\obj\Debug\netcoreapp2.1\ShoppingPortal.ProductInfo.AssemblyInfoInputs.cache
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.ProductInfo\obj\Debug\netcoreapp2.1\ShoppingPortal.ProductInfo.AssemblyInfo.cs
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.ProductInfo\bin\Debug\netcoreapp2.1\ShoppingPortal.ProductInfo.deps.json
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.ProductInfo\bin\Debug\netcoreapp2.1\ShoppingPortal.ProductInfo.dll
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.ProductInfo\bin\Debug\netcoreapp2.1\ShoppingPortal.ProductInfo.pdb
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.ProductInfo\bin\Debug\netcoreapp2.1\ShoppingPortal.Connection.pdb
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.ProductInfo\obj\Debug\netcoreapp2.1\ShoppingPortal.ProductInfo.csproj.CopyComplete
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.ProductInfo\obj\Debug\netcoreapp2.1\ShoppingPortal.ProductInfo.dll
+F:\bin\Project\shopping portal\ShoppingPortal\ShoppingPortal\Dynamic\ShoppingPortal\ShoppingPortal.ProductInfo\obj\Debug\netcoreapp2.1\ShoppingPortal.ProductInfo.pdb
